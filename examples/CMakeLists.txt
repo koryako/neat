@@ -14,6 +14,7 @@ LIST(APPEND neat_programs
     tneat.c
     peer.c
     msbench.c
+    wget.c
 )
 
 LIST(APPEND neat_property_examples
